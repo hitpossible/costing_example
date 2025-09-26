@@ -18,3 +18,6 @@ pip install -r requirements.txt
 
 ## 5. Run Application
 python main.py
+
+
+Have a good day
